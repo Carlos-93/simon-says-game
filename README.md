@@ -1,12 +1,8 @@
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Carlos-93/simon-says-game/main/public/assets/vite.png" width="250"></td>
-      <td style="width: 20px;"></td>
-      <td><img src="https://raw.githubusercontent.com/Carlos-93/react-weather-map/main/src/img/react.png" width="300"></td>
-    </tr>
-  </table>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/Carlos-93/simon-says-game/main/public/assets/vite.png" width="250">
+  <img src="https://raw.githubusercontent.com/Carlos-93/react-weather-map/main/src/img/react.png" width="300">
 </p>
+
 
 
 # Welcome to my Simon Says Game
