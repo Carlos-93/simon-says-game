@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Carlos-93/simon-says-game/main/public/assets/vite.png" width="250">
   &nbsp;
+  &nbsp; 
+  &nbsp; 
   <img src="https://raw.githubusercontent.com/Carlos-93/react-weather-map/main/src/img/react.png" width="300">
 </p>
 
