@@ -1,4 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Carlos-93/simon-says-game/main/public/assets/vite.png" width="250"><img src="https://raw.githubusercontent.com/Carlos-93/react-weather-map/main/src/img/react.png" width="300"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carlos-93/simon-says-game/main/public/assets/vite.png" width="250" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/Carlos-93/react-weather-map/main/src/img/react.png" width="300" style="margin-left: 20px;">
+</p>
 
 # Welcome to my Simon Says Game
 
