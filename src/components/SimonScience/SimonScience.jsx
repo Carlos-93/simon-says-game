@@ -2,8 +2,11 @@ import { useState, useEffect, useCallback } from 'react';
 import Title from '../Title/Title';
 import Instructions from '../Instructions/Instructions';
 import Button from '../Button/Button';
+import ColorCard from '../ColorCard/ColorCard';
 import Modal from '../Modal/Modal';
 import processGameResult from '../../services/api';
+
+const colorList = ["green", "red", "yellow", "blue"];
 
 export default function SimonScience() {
     // State variables for the game 

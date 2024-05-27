@@ -1,7 +1,6 @@
 import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 
-
 export default function Modal({ message, score, onClose }) {
     return ReactDOM.createPortal(
         (
